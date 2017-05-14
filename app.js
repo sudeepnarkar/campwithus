@@ -21,7 +21,7 @@ var url = process.env.DATABASEURL || "mongodb://localhost/yelp_camp_v12"
 
 mongoose.connect(url);
 
-mongoose.connect(process.env.DATABASEURL);
+//mongoose.connect(process.env.DATABASEURL);
 
 process.env.databaseURL 
 app.use(bodyParser.urlencoded({extended: true}));
