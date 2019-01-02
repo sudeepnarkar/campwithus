@@ -5,5 +5,5 @@ Application avaliable at https://campwithus.herokuapp.com/
 
 Technology stack - MEAN stack (MongoDB, Express.js, Angular.js, Node.js) , HTML5, CSS3, BootStrap
 
-by [Sudeep Narkar](https://www.facebook.com/sudeep.narkar)
+by [Sudeep Narkar](https://www.linkedin.com/in/sudeep-narkar-91150843/)
 
